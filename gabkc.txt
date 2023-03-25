@@ -1,1 +1,5 @@
 vless://90ae3773-f1b3-4acc-b4cd-303f79406a46@ip.onemaster.sbs:2083?type=ws&security=tls&path=%2F&host=master.onemaster.sbs&sni=ip.onemaster.sbs&fp=chrome#M%20A%20S%20T%20E%20R-MST%20%7C%205
+
+vless://90ae3773-f1b3-4acc-b4cd-303f79406a46@mtn.onemaster.sbs:2083?type=ws&security=tls&path=%2F&host=master.onemaster.sbs&sni=mtn.onemaster.sbs&fp=chrome#M%20A%20S%20T%20E%20R-MST%20%7C%205
+
+vless://90ae3773-f1b3-4acc-b4cd-303f79406a46@mci.onemaster.sbs:2083?type=ws&security=tls&path=%2F&host=master.onemaster.sbs&sni=mci.onemaster.sbs&fp=chrome#M%20A%20S%20T%20E%20R-MST%20%7C%205
